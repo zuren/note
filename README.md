@@ -11,6 +11,11 @@ notes are stored in /Users/richard/notes
 
 set $EDITOR to your preferred editor
 
+setting up:
+
+$ export EDITOR=code
+$ note --setup
+
 creating a new note:
 
 $ note <note-name>

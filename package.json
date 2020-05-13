@@ -7,6 +7,7 @@
     "chalk": "^4.0.0",
     "minimist": "^1.2.5",
     "mkdirp": "^1.0.4",
+    "omelette": "^0.4.12",
     "open-in-editor": "^2.2.0",
     "touch": "^3.1.0",
     "user-home": "^2.0.0"
