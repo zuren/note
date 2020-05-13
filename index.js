@@ -17,7 +17,7 @@ const error = err => {
 
 const help = () => {
   console.log(`
-  ${grey("~~~~")} ${yellow("jot")} ${grey("~~~~")}
+  ${grey("~~~~")} ${yellow("note")} ${grey("~~~~")}
 
   ${grey(`notes are stored in ${NOTE_DIRECTORY}`)}
 
@@ -25,11 +25,11 @@ const help = () => {
 
   creating a new note:
 
-  ${grey("$")} jot ${green("<note-name>")}
+  ${grey("$")} note ${green("<note-name>")}
 
   editing an existing note:
 
-  ${grey("$")} jot ${green("<note-name>")}
+  ${grey("$")} note ${green("<note-name>")}
   `)
 
   process.exit(0)

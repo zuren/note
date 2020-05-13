@@ -1,7 +1,7 @@
 {
-  "name": "jot",
+  "name": "note",
   "bin": {
-    "jot": "index.js"
+    "note": "index.js"
   },
   "dependencies": {
     "chalk": "^4.0.0",
