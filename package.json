@@ -1,0 +1,14 @@
+{
+  "name": "jot",
+  "bin": {
+    "jot": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "minimist": "^1.2.5",
+    "mkdirp": "^1.0.4",
+    "open-in-editor": "^2.2.0",
+    "touch": "^3.1.0",
+    "user-home": "^2.0.0"
+  }
+}
